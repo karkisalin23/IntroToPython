@@ -23,7 +23,7 @@
             Boolean - a data type that has one of two possible values: True or False
             None - used to represent the absence of a value or a null value
 
-2) Operators:
+3) Operators:
     Operators - symbols or keywords that represents a specific mathematical or logical action or process
 
         Following are some common operators in Pythons
