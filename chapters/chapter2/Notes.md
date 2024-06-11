@@ -2,6 +2,7 @@
 
 1) Variable:
     Variable = name given to a memory location which are used to store values
+
         ex:
             a = 10 -- Store 10 in memory
             name = "Salin" --Store Salin in memory
@@ -14,6 +15,7 @@
 
 2) Datatype:
     Datatype = an attribute associated with a piece of data that tells a computer how to interpret its value
+
         ex:
             Integers - number without decimal
             Floating point numbers - numbers that have a decimal point
@@ -23,6 +25,7 @@
 
 2) Operators:
     Operators - symbols or keywords that represents a specific mathematical or logical action or process
+
         Following are some common operators in Pythons
             - Arithmetic operators  =    +, -, *, /, %, etc...
             - Assignment Operators  =    =, +=, -=, etc...
@@ -48,6 +51,7 @@
 
 
         Typecasting (Type Conversion) - the process of converting a value from one type to another.
+
             Common Typecasting Functions
                 - int(x) - Converts x to an integer.
                 - float(x) - Converts x to a floating-point number.
@@ -92,6 +96,7 @@
 
 5) input() Function:
     input() - is used to take input from the user. It reads a line from the input and returns it as a string.
+    
         ex:
             # Taking input from the user without a prompt
                 user_input = input()
