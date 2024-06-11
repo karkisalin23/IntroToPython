@@ -2,9 +2,9 @@
 
                                 Variable
 Variable = name given to a memory location which are used to store values.
-    ex:
-        a = 10 -- Store 10 in memory
-        name = "Salin" --Store Salin in memory
+  ex:
+    a = 10 -- Store 10 in memory
+    name = "Salin" --Store Salin in memory
 
     Rules for defining a variable name --> also applies to other identifiers
         - A variable name can contain alphablets, digits, and underscore
