@@ -17,3 +17,4 @@ first_name, age_str = input_str.split()  # Split input string
 age = int(age_str)  # Convert the age to an integer
 print("Name:", first_name)
 print("Age:", age)
+
