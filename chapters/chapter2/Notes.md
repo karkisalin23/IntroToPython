@@ -1,7 +1,7 @@
 # Chapter 2 Notes
 
                                 Variable
-Variable = name given to a memory location which are used to store values
+Variable = name given to a memory location which are used to store values.
     ex:
         a = 10 -- Store 10 in memory
         name = "Salin" --Store Salin in memory
@@ -14,7 +14,7 @@ Variable = name given to a memory location which are used to store values
 
 
                                 Datatype
-Datatype = an attribute associated with a piece of data that tells a computer how to interpret its value
+Datatype = an attribute associated with a piece of data that tells a computer how to interpret its value.
     ex:
         Integers - number without decimal
         Floating point numbers - numbers that have a decimal point
@@ -24,7 +24,7 @@ Datatype = an attribute associated with a piece of data that tells a computer ho
     
 
                                 Operators
-Operators - symbols or keywords that represents a specific mathematical or logical action or process
+Operators - symbols or keywords that represents a specific mathematical or logical action or process.
     Following are some common operators in Pythons
         - Arithmetic operators  =    +, -, *, /, %, etc...
         - Assignment Operators  =    =, +=, -=, etc...
