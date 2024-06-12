@@ -3,10 +3,10 @@ b = 2
 
 # Arithmetic operators
 print("Arithmetic operators")
-print(f"The value of {a} + {b} is ", a + b)
-print(f"The value of {a} - {b} is ", a - b)
-print(f"The value of {a} * {b} is ", a * b)
-print(f"The value of {a} / {b} is ", a / b, "\n")
+print(f"The value of {a} + {b} is {a + b}")
+print(f"The value of {a} - {b} is {a - b}")
+print(f"The value of {a} * {b} is {a * b}")
+print(f"The value of {a} / {b} is {a / b}\n")
 
 # Assignment Operators
 print("Assignment Operators")
