@@ -19,7 +19,7 @@ In Python, lists and tuples are both used to store collections of items, but the
     - Usage: Used for fixed collections of elements that are not intended to be changed, such as coordinates, database records, etc.
 
     ex:
-    
+
         my_tuple = (1, 2, 3, 4, 5)
         # or without parentheses
         my_tuple = 1, 2, 3, 4, 5
@@ -33,7 +33,8 @@ Key Differences:
 When to Use Which?
 
     - Use lists when you have a collection of items that may need to be modified, such as adding or removing elements.
-    - Use tuples when you have a collection of items that should not change, such as coordinates of a point, database records fetched from a query, etc. They - are also useful for returning multiple values from a function.
+    - Use tuples when you have a collection of items that should not change, such as coordinates of a point, database records fetched from a query, etc. 
+    - They are also useful for returning multiple values from a function.
 
         ex:
 
