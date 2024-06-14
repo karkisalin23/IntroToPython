@@ -39,6 +39,7 @@
 3) Escape Sequences:
     Escape sequences - used to insert characters that are not easy to include directly in a string. They start with a backslash ('\').
         ex:
+        
             # Newline character
             print("Hello,\nWorld!")  # Output: Hello,
                                      #         World!
