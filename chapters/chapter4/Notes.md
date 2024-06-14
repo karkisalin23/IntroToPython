@@ -19,6 +19,7 @@ In Python, lists and tuples are both used to store collections of items, but the
     - Usage: Used for fixed collections of elements that are not intended to be changed, such as coordinates, database records, etc.
 
     ex:
+    
         my_tuple = (1, 2, 3, 4, 5)
         # or without parentheses
         my_tuple = 1, 2, 3, 4, 5
