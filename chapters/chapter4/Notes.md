@@ -129,7 +129,7 @@ Python lists come with a variety of methods that allow you to perform different 
                 # new_list is [1, 2, 3]
 
 
-        Example Code Using Various Methods: 
+    Example Code Using Various Methods: 
 
             # Creating a list
             fruits = ['apple', 'banana', 'cherry']
