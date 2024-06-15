@@ -25,3 +25,12 @@ print(anime[-4:])
 """------------------------------------------"""
 # List Methods
 """------------------------------------------"""
+        # Consider the following list
+
+l1 = [1, 8, 7, 2, 21, 15]
+print(l1)
+
+#L1.sort(): update the list to [1, 2, 7, 8, 15, 21]
+l1.sort()
+print(l1)
+

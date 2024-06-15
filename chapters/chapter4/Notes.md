@@ -46,7 +46,8 @@ When to Use Which?
 
 In summary, lists and tuples are both used for storing collections of items, but their mutability and intended use cases differentiate them. Lists are mutable and more flexible, while tuples are immutable and faster for certain operations.
 
-# List Methods
+
+# List Methods: 
 Python lists come with a variety of methods that allow you to perform different operations on them. Here are some commonly used list methods:
 
     ex: 
