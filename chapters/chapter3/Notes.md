@@ -1,6 +1,6 @@
 # Chapter 3 Notes
 
-1) String:
+# String:
     String - a sequence of characters enclosed within either single quotes (' '), double quotes (" "), or triple quotes (''' ''', """ """).Strings are immutable, meaning once they are created, their contents cannot be changed.
 
         ex: 
@@ -8,7 +8,7 @@
             double quotes --> b = "Hello"
             triple quotes --> c = '''Hello''' or """Hello"""
 
-2) String Slicing:
+# String Slicing:
     String Slicing - process of extracting a portion of a string by specifying a range of indices.
 
         ex:
@@ -36,7 +36,7 @@
                 # Reverse the string
                 print(s[::-1])
 
-3) Escape Sequences:
+# Escape Sequences:
     Escape sequences - used to insert characters that are not easy to include directly in a string. They start with a backslash ('\').
         ex:
         

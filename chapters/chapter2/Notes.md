@@ -1,6 +1,6 @@
 # Chapter 2 Notes
 
-1) Variable:
+# Variable:
     Variable = name given to a memory location which are used to store values
 
         ex:
@@ -13,7 +13,7 @@
             - A variable name cannot start with a digit
             - No whitespace is allowed to be used inside a variable name.# Taking multiple inputs in one line
 
-2) Datatype:
+# Datatype:
     Datatype = an attribute associated with a piece of data that tells a computer how to interpret its value
 
         ex:
@@ -23,7 +23,7 @@
             Boolean - a data type that has one of two possible values: True or False
             None - used to represent the absence of a value or a null value
 
-3) Operators:
+# Operators:
     Operators - symbols or keywords that represents a specific mathematical or logical action or process
 
         Following are some common operators in Pythons
@@ -32,7 +32,7 @@
             - Comparison Operators  =    ==, <, >, <=, =>, !=, etc... - return boolean
             - Logical Operators     =    and, or, not - operate in Boolean
 
-4) type() function and Typecasting:
+# type() function and Typecasting:
     In Python, the 'type()' function and typecasting (or type conversion) are two essential concepts related to data types. Here's an explanation of both:
 
         type() function - used to determine the type of an object. It returns the type of the object passed as an argument.
@@ -94,7 +94,7 @@
                         print(num_set)            # Output: {1, 2, 3}
                         print(type(num_set))      # Output: <class 'set'>
 
-5) input() Function:
+# input() Function:
     input() - is used to take input from the user. It reads a line from the input and returns it as a string.
     
         ex:

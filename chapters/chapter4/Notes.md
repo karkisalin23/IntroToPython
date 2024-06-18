@@ -2,7 +2,7 @@
 
 In Python, lists and tuples are both used to store collections of items, but they have some key differences in terms of mutability, syntax, and intended use cases. Here's a breakdown of each:
 
-1) Lists:
+# Lists:
 
     - Mutable: Lists are mutable, meaning their elements can be changed after the list is created.
     - Syntax: Defined using square brackets [].
@@ -12,7 +12,7 @@ In Python, lists and tuples are both used to store collections of items, but the
             
             my_list = [1, 2, 3, 4, 5]
 
-2) Tuples:
+# Tuples:
 
     - Immutable: Tuples are immutable, meaning once they are created, their elements cannot be changed.
     - Syntax: Defined using parentheses (), although they can also be defined without parentheses.
@@ -24,13 +24,13 @@ In Python, lists and tuples are both used to store collections of items, but the
         # or without parentheses
         my_tuple = 1, 2, 3, 4, 5
 
-Key Differences:
+# Key Differences:
 
     - Mutability: Lists are mutable (can be changed), tuples are immutable (cannot be changed).
     - Performance: Tuples are generally faster than lists when it comes to iteration and indexing, partly because of their immutability.
     - Syntax: Lists are defined using [], while tuples can be defined with or without ().
 
-When to Use Which?
+# When to Use Which?
 
     - Use lists when you have a collection of items that may need to be modified, such as adding or removing elements.
     - Use tuples when you have a collection of items that should not change, such as coordinates of a point, database records fetched from a query, etc. 
@@ -50,8 +50,7 @@ In summary, lists and tuples are both used for storing collections of items, but
 # List Methods: 
 Python lists come with a variety of methods that allow you to perform different operations on them. Here are some commonly used list methods:
 
-    ex: 
-
+    ex:
         1. append(item)
             - Adds an item to the end of the list.
 
@@ -130,7 +129,7 @@ Python lists come with a variety of methods that allow you to perform different 
                 # new_list is [1, 2, 3]
 
 
-    Example Code Using Various Methods: 
+# Example Code Using Various Methods: 
 
             # Creating a list
             fruits = ['apple', 'banana', 'cherry']
