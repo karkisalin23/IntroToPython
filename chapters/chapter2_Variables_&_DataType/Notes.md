@@ -1,4 +1,4 @@
-# Chapter 2 Notes
+# Chapter 2 - Variable & DataType
 
 # Variable:
     Variable = name given to a memory location which are used to store values

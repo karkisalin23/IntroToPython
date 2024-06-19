@@ -1,4 +1,4 @@
-# Chapter 3 Notes
+# Chapter 3 - Strings
 
 # String:
     String - a sequence of characters enclosed within either single quotes (' '), double quotes (" "), or triple quotes (''' ''', """ """).Strings are immutable, meaning once they are created, their contents cannot be changed.

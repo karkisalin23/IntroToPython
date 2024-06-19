@@ -1,4 +1,4 @@
-# Chapter 4
+# Chapter 4 - Lists & Tuples
 
 In Python, lists and tuples are both used to store collections of items, but they have some key differences in terms of mutability, syntax, and intended use cases. Here's a breakdown of each:
 
