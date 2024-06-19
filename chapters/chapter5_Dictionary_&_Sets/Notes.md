@@ -156,7 +156,7 @@ Sets = an unordered collection of unique items. Sets are mutable, but they do no
     4. Checking if an Element Exists
         # Checking if an element exists
         if 5 in my_set:
-        print('5 is in the set')
+            print('5 is in the set')
 
 # Set Operations
     - Union
